@@ -1,0 +1,6 @@
+{
+  "name": "AtendAI - Atendente de IA no WhatsApp para Clínicas",
+  "description": "Atendente de inteligência artificial no WhatsApp para clínicas odontológicas e de estética. Responda 24h, agende consultas e reduza as faltas de pacientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
